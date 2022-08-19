@@ -1,0 +1,1 @@
+npm i dotenv && npm i telegraf
